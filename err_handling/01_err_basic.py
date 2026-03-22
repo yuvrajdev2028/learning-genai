@@ -39,3 +39,9 @@
 # Name Error -> NameError: name 'non_existing_variable' is not defined
 
 # print(non_existing_variable)
+
+# ---------------------------------------------------------------------------------------
+
+# Value Error
+
+# int("abc") # ValueError: invalid literal for int() with base 10: 'abc'
